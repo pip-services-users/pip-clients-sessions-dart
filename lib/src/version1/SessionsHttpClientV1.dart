@@ -2,7 +2,7 @@ import 'dart:async';
 import 'dart:convert';
 import 'package:pip_services3_commons/pip_services3_commons.dart';
 import 'package:pip_services3_rpc/pip_services3_rpc.dart';
-import './SessionV1.dart';
+import 'package:pip_services_sessions/pip_services_sessions.dart';
 import './ISessionsClientV1.dart';
 
 class SessionsHttpClientV1 extends CommandableHttpClient

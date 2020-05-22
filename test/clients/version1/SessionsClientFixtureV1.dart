@@ -1,6 +1,6 @@
 import 'package:test/test.dart';
 import 'package:pip_services3_commons/pip_services3_commons.dart';
-
+import 'package:pip_services_sessions/pip_services_sessions.dart';
 import 'package:pip_clients_sessions/pip_clients_sessions.dart';
 
 class SessionsClientFixtureV1 {

@@ -1,6 +1,6 @@
 import 'dart:async';
 import 'package:pip_services3_commons/pip_services3_commons.dart';
-import './SessionV1.dart';
+import 'package:pip_services_sessions/pip_services_sessions.dart';
 
 abstract class ISessionsClientV1 {
   /// Gets a page of sessions retrieved by a given filter.
